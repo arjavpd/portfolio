@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, {Component} from "react";
 import $ from "jquery";
 import "./App.scss";
 import Header from "./components/Header";
@@ -9,13 +9,12 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
       foo: "bar",
       resumeData: {},
-      sharedData: {},
+      sharedData: {name: "Arjav Prasad"},
     };
   }
 
@@ -46,7 +45,7 @@ class App extends Component {
     this.loadSharedData();
     this.applyPickedLanguage(
       window.$primaryLanguage,
-      window.$secondaryLanguageIconId
+      window.$secondaryLanguageIconId,
     );
   }
 
@@ -56,7 +55,7 @@ class App extends Component {
       dataType: "json",
       cache: false,
       success: function (data) {
-        this.setState({ resumeData: data });
+        this.setState({resumeData: data});
       }.bind(this),
       error: function (xhr, status, err) {
         alert(err);
@@ -70,7 +69,7 @@ class App extends Component {
       dataType: "json",
       cache: false,
       success: function (data) {
-        this.setState({ sharedData: data });
+        this.setState({sharedData: data});
         document.title = `${this.state.sharedData.basic_info.name}`;
       }.bind(this),
       error: function (xhr, status, err) {
@@ -83,38 +82,34 @@ class App extends Component {
     return (
       <div>
         <Header sharedData={this.state.sharedData.basic_info} />
-        <div className="col-md-12 mx-auto text-center language">
+        <div className='col-md-12 mx-auto text-center language'>
           <div
             onClick={() =>
               this.applyPickedLanguage(
                 window.$primaryLanguage,
-                window.$secondaryLanguageIconId
+                window.$secondaryLanguageIconId,
               )
             }
-            style={{ display: "inline" }}
-          >
+            style={{display: "inline"}}>
             <span
-              className="iconify language-icon mr-5"
-              data-icon="twemoji-flag-for-flag-united-kingdom"
-              data-inline="false"
-              id={window.$primaryLanguageIconId}
-            ></span>
+              className='iconify language-icon mr-5'
+              data-icon='twemoji-flag-for-flag-united-kingdom'
+              data-inline='false'
+              id={window.$primaryLanguageIconId}></span>
           </div>
           <div
             onClick={() =>
               this.applyPickedLanguage(
                 window.$secondaryLanguage,
-                window.$primaryLanguageIconId
+                window.$primaryLanguageIconId,
               )
             }
-            style={{ display: "inline" }}
-          >
+            style={{display: "inline"}}>
             <span
-              className="iconify language-icon"
-              data-icon="twemoji-flag-for-flag-poland"
-              data-inline="false"
-              id={window.$secondaryLanguageIconId}
-            ></span>
+              className='iconify language-icon'
+              data-icon='twemoji-flag-for-flag-poland'
+              data-inline='false'
+              id={window.$secondaryLanguageIconId}></span>
           </div>
         </div>
         <About
