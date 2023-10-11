@@ -11,9 +11,9 @@
   },
   "projects": [
     {
-      "title": "Animal Shelter",
-      "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "title": "Dawn",
+      "startDate": "2021",
+      "description": "Dawn was a anonymous dating app for iOS/android with 100 daily active users. Built the app from scratch with a partner. I was responsible for building the recomedation algrothithm, the matching system, the profile creation system, the reveal feature (2nd slide) and many of the onboarding screens.",
       "images": [
         "images/portfolio/animal-shelter/p1.jpg",
         "images/portfolio/animal-shelter/p2.jpg"
@@ -21,60 +21,60 @@
       "url": "",
       "technologies": [
         {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-react-plain",
+          "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-apple-plain",
+          "name": "Apple"
+        },
+        {
+          "class": "devicon-android-plain",
+          "name": "Android"
         }
       ]
     },
     {
-      "title": "Photography",
-      "startDate": "2018",
-      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "title": "TimeBlox",
+      "startDate": "2022",
+      "description": "Timeblox is a social accountability dashboard. It is a Chrome extension that takes over the users tab. It allows users to set tasks, set timers, and track their progress. It also allows users to see their friends progress. I was responsible for building out the UI, the share feature and various client side data handling.",
       "images": [
         "images/portfolio/photography/p1.jpg",
         "images/portfolio/photography/p2.jpg"
       ],
-      "url": "https://github.com",
+      "url": "https://chrome.google.com/webstore/detail/timeblox/bbgjgcmflmkedifjfnaegoclmgdghdbc",
       "technologies": [
         {
-          "class": "devicon-react-original",
-          "name": "React"
-        },
-        {
-          "class": "devicon-javascript-plain",
-          "name": "JavaScript"
-        }
-      ]
-    },
-    {
-      "title": "3D Object Viewer",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
-      "url": "https://github.com",
-      "technologies": [
-        {
-          "class": "devicon-angularjs-plain",
-          "name": "Angular"
+          "class": "devicon-chrome-plain",
+          "name": "Chrome"
         },
         {
           "class": "devicon-typescript-plain",
           "name": "TypeScript"
         },
         {
-          "class": "devicon-csharp-plain",
-          "name": "C#"
+          "class": "devicon-react-original",
+          "name": "React"
+        }
+      ]
+    },
+    {
+      "title": "Wine Predictive Modelling",
+      "startDate": "2022",
+      "description": "This Python-based project created a modeling web application for a datset about different wine varieties. I pre-porcessed the data and applied a model to predict the class of wine given certain parameters. I then deployed a web application using Streamlit.",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://arjavpd-winemlapp-wc-ml-app-q0ac4v.streamlit.app/",
+      "technologies": [
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
         }
       ]
     }
