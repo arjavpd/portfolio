@@ -39,7 +39,7 @@
       "title": "TimeBlox",
       "startDate": "2022",
       "description": "Timeblox is a social accountability dashboard. It is a Chrome extension that takes over the users tab. It allows users to set tasks, set timers, and track their progress. It also allows users to see their friends progress. I was responsible for building out the UI, the share feature and various client side data handling.",
-      "images": ["images/portfolio/timeblox/p1.jpg"],
+      "images": ["images/portfolio/timeblox/p1.png"],
       "url": "https://chrome.google.com/webstore/detail/timeblox/bbgjgcmflmkedifjfnaegoclmgdghdbc",
       "technologies": [
         {
@@ -60,10 +60,7 @@
       "title": "Wine Predictive Modelling",
       "startDate": "2022",
       "description": "This Python-based project created a modeling web application for a datset about different wine varieties. I pre-porcessed the data and applied a model to predict the class of wine given certain parameters. I then deployed a web application using Streamlit.",
-      "images": [
-        "images/portfolio/adventure/p1.jpg",
-        "images/portfolio/adventure/p2.jpg"
-      ],
+      "images": ["images/portfolio/wine/p1.jpg"],
       "url": "https://arjavpd-winemlapp-wc-ml-app-q0ac4v.streamlit.app/",
       "technologies": [
         {
