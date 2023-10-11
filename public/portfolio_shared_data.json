@@ -29,18 +29,13 @@
         "level": "95"
       },
       {
-        "name": "XCode",
-        "class": "devicon-xcode-plain",
+        "name": "Apple",
+        "class": "devicon-apple-plain",
         "level": "95"
       },
       {
         "name": "Android",
         "class": "devicon-android-plain",
-        "level": "95"
-      },
-      {
-        "name": "Apple",
-        "class": "devicon-apple-plain",
         "level": "95"
       },
       {
@@ -56,6 +51,11 @@
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "Figma",
+        "class": "devicon-figma-plain",
         "level": "95"
       }
     ]
