@@ -14,7 +14,19 @@ class App extends Component {
     this.state = {
       foo: "bar",
       resumeData: {},
-      sharedData: {name: "Arjav Prasad"},
+      sharedData: {
+        basic_info: {
+          name: "Arjav Prasad",
+          social: [
+            {
+              name: "Github",
+              url: "https://github.com/arjavpd",
+              class: "fab fa-github",
+            },
+          ],
+          titles: ["Full Stack Developer", "Data Scientist"],
+        },
+      },
     };
   }
 
