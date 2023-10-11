@@ -9,14 +9,14 @@
         "class": "fab fa-github"
       },
       {
-        "name": "LinkedIn",
-        "url": "https://www.linkedin.com/in/arjavprasad/",
-        "class": "fab fa-linkedin"
-      },
-      {
         "name": "Email",
         "url": "mailto: arjavprasad@gmail.com",
         "class": "far fa-envelope"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/arjavprasad/",
+        "class": "fab fa-linkedin"
       }
     ],
     "image": "myProfile.png"
