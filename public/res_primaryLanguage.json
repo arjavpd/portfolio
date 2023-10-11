@@ -85,14 +85,18 @@
       "title": "Part-Time Web Developer/Tech Lead ",
       "years": "04/2023 - present",
       "mainTech": ["Liquid"],
-      "technologies": ["JavaScript", "HTML"]
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "description": "Imlemented visual display of tags for easy navigation, improved conversion by 15%. Used Hotjar to analyze scroll heatmaps and improved click-through of buttons. Improved Google page speed scores by 10 points.",
+      "icon": "fab fa-react experience-icon"
     },
     {
       "company": "Union Digital",
       "title": "Front-End Developer",
       "years": "04/2022 - 11/2022",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "mainTech": ["Figma"],
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "description": "Built Figma website displaying customer journey of cryptopowered purchasing. Website was used in demos for potential investors at tech conventions.",
+      "icon": "fab fa-figma experience-icon"
     }
   ]
 }
