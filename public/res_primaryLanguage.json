@@ -14,10 +14,7 @@
       "title": "Dawn",
       "startDate": "2021",
       "description": "Dawn was a anonymous dating app for iOS/android with 100 daily active users. Built the app from scratch with a partner. I was responsible for building the recomedation algrothithm, the matching system, the profile creation system, the reveal feature (2nd slide) and many of the onboarding screens.",
-      "images": [
-        "images/portfolio/dawn/p1.png",
-        "images/portfolio/dawn/p2.jpg"
-      ],
+      "images": ["images/portfolio/dawn/p2.png"],
       "url": "",
       "technologies": [
         {
@@ -42,10 +39,7 @@
       "title": "TimeBlox",
       "startDate": "2022",
       "description": "Timeblox is a social accountability dashboard. It is a Chrome extension that takes over the users tab. It allows users to set tasks, set timers, and track their progress. It also allows users to see their friends progress. I was responsible for building out the UI, the share feature and various client side data handling.",
-      "images": [
-        "images/portfolio/photography/p1.jpg",
-        "images/portfolio/photography/p2.jpg"
-      ],
+      "images": ["images/portfolio/timeblox/p1.jpg"],
       "url": "https://chrome.google.com/webstore/detail/timeblox/bbgjgcmflmkedifjfnaegoclmgdghdbc",
       "technologies": [
         {
