@@ -81,26 +81,16 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
+      "company": "Vegan Supply",
+      "title": "Part-Time Web Developer/Tech Lead ",
+      "years": "04/2023 - present",
+      "mainTech": ["Liquid"],
+      "technologies": ["JavaScript", "HTML"]
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
+      "company": "Union Digital",
+      "title": "Front-End Developer",
+      "years": "04/2022 - 11/2022",
       "mainTech": ["Angular 7/8"],
       "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
     }
