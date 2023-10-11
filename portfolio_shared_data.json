@@ -16,7 +16,7 @@
       {
         "name": "Email",
         "url": "mailto: arjavprasad@gmail.com",
-        "class": "fab fa-envelope"
+        "class": "fa-regular fa-envelope"
       }
     ],
     "image": "myProfile.png"
