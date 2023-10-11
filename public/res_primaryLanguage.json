@@ -33,7 +33,7 @@
     },
     {
       "title": "Dawn",
-      "startDate": "2021",
+      "startDate": "2022",
       "description": "Dawn is an anonymous dating app for iOS/Android with 100 daily active users. I built the app from scratch with a partner. I was responsible for building the recommendation algorithm, the matching system, the profile creation system, the reveal feature, and many of the onboarding screens.",
       "images": ["images/portfolio/dawn/p1.png"],
       "url": "https://joindawn.app/",
