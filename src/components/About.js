@@ -31,22 +31,6 @@ class About extends Component {
                     src={profilepic}
                     alt='Avatar placeholder'
                   />
-                  <Icon
-                    icon={firebaseIcon}
-                    style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
-                  />
-                  <Icon
-                    icon={awsIcon}
-                    style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
-                  />
-                  <Icon
-                    icon={reactIcon}
-                    style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
-                  />
-                  <Icon
-                    icon={pythonIcon}
-                    style={{fontSize: "400%", margin: "9% 5% 0 5%"}}
-                  />
                 </span>
               </div>
             </div>
