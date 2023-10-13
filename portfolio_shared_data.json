@@ -40,12 +40,12 @@
       },
       {
         "name": "Apple",
-        "class": "devicon-apple-plain",
+        "class": "devicon-xcode-plain",
         "level": "95"
       },
       {
         "name": "Android",
-        "class": "devicon-android-plain",
+        "class": "devicon-androidstudio-plain",
         "level": "95"
       },
       {

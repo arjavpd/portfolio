@@ -75,19 +75,18 @@
       "company": "Vegan Supply",
       "title": "Part-Time Web Developer/Tech Lead ",
       "years": "04/2023 - present",
-      "mainTech": ["Liquid"],
-      "technologies": ["JavaScript", "HTML", "CSS"],
+
+      "technologies": ["Liquid", "JavaScript", "HTML", "CSS"],
       "description": "Imlemented visual display of tags for easy navigation which improved conversion by 15%. Used Hotjar to analyze scroll heatmaps and improved click-through of buttons. Improved Google page speed scores by 30 points.",
-      "icon": "fab fa-react experience-icon"
+      "icon": "fas fa-hourglass-start mx-auto experience-icon "
     },
     {
       "company": "Union Digital",
       "title": "Front-End Developer",
       "years": "04/2022 - 11/2022",
-      "mainTech": ["Figma"],
-      "technologies": ["JavaScript", "HTML", "CSS"],
+      "technologies": ["Figma", "JavaScript", "HTML", "CSS"],
       "description": "Built Figma website displaying customer journey of crypto-powered purchasing. Website was used in demos for potential investors at tech conventions.",
-      "icon": "fab fa-figma experience-icon"
+      "icon": "fas fa-hourglass-start mx-auto experience-icon"
     }
   ]
 }
