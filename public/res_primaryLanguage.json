@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "TimeBlox",
+      "title": "TimeBlox: social productivity Chrome extension",
       "startDate": "2022",
       "description": "Timeblox is a social accountability dashboard. This Chrome extension takes over the users tab and allows users to set tasks, set timers, track their progress, and see their friends' progress. I was responsible for building out the UI, the share feature, and various client-side data handling.",
       "images": ["images/portfolio/timeblox/p1.png"],
@@ -32,7 +32,7 @@
       ]
     },
     {
-      "title": "Dawn",
+      "title": "Dawn: Blind Dating Mobile App",
       "startDate": "2022",
       "description": "Dawn is an anonymous dating app for iOS/Android with 100 daily active users. I built the app from scratch with a partner. I was responsible for building the recommendation algorithm, the matching system, the profile creation system, the reveal feature, and many of the onboarding screens.",
       "images": ["images/portfolio/dawn/p1.png"],
@@ -43,7 +43,7 @@
           "name": "React"
         },
         {
-          "class": "devicon-firebase-plain",
+          "class": "-firebase-plain",
           "name": "Firebase"
         },
         {
@@ -75,7 +75,6 @@
       "company": "Vegan Supply",
       "title": "Part-Time Web Developer/Tech Lead ",
       "years": "04/2023 - present",
-
       "technologies": ["Liquid", "JavaScript", "HTML", "CSS"],
       "description": "Implemented  visual display of tags for easy navigation which improved conversion by 15%. Used Hotjar to analyze scroll heatmaps and improved click-through of buttons. Improved Google page speed scores by 30 points.",
       "icon": "fas fa-hourglass-start mx-auto experience-icon "
