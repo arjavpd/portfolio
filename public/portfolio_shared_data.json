@@ -64,6 +64,11 @@
         "level": "95"
       },
       {
+        "name": "cSharp",
+        "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
         "name": "Figma",
         "class": "devicon-figma-plain",
         "level": "95"
