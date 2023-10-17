@@ -13,7 +13,7 @@
     {
       "title": "TimeBlox: social productivity Chrome extension",
       "startDate": "2022",
-      "description": "Timeblox is a social accountability dashboard. This Chrome extension takes over the users tab and allows users to set tasks, set timers, track their progress, and see their friends' progress. I was responsible for building out the UI, the share feature, and various client-side data handling.",
+      "description": "50 daily users completing 3 tasks a day on average. Has add friend functionality. Created the application with ReactJS and AWS Amplify.",
       "images": ["images/portfolio/timeblox/p1.png"],
       "url": "https://chrome.google.com/webstore/detail/timeblox/bbgjgcmflmkedifjfnaegoclmgdghdbc",
       "technologies": [
@@ -34,7 +34,7 @@
     {
       "title": "Dawn: Blind Dating Mobile App",
       "startDate": "2022",
-      "description": "Dawn is an anonymous dating app for iOS/Android with 100 daily active users. I built the app from scratch with a partner. I was responsible for building the recommendation algorithm, the matching system, the profile creation system, the reveal feature, and many of the onboarding screens.",
+      "description": "Facilitated 5000 connections between 1300 registered users. App engaged 1000 users for an average of 15 minutes and 52 seconds on a daily basis. Designed, programed, and deployed the entire app with React Native and Google Firebase.",
       "images": ["images/portfolio/dawn/p1.png"],
       "url": "https://arjavpd.github.io/dawn-showcase/",
       "technologies": [
@@ -59,7 +59,7 @@
     {
       "title": "Wine Predictive Modelling",
       "startDate": "2022",
-      "description": "This is a Python-based web application that uses machine learning on a database concerned with the chemical properties of wine. I pre-processed the data and applied a model to predict the class of wine given certain parameters. I then deployed the web application using Streamlit.",
+      "description": "Pre-processed dataset. Used Random Forest Classifier to model data. Predicted an output from given parameters such % malic acid or color intensity. Created the application with Python and Streamlit.",
       "images": ["images/portfolio/wine/p1.jpg"],
       "url": "https://arjavpd-winemlapp-wc-ml-app-q0ac4v.streamlit.app/",
       "technologies": [

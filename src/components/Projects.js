@@ -38,6 +38,9 @@ class Projects extends Component {
                   <br />
                   <p className='project-title-settings mt-3'>
                     {projects.title}
+                    <i
+                      className='fas fa-external-link-alt'
+                      style={{marginLeft: "10px"}}></i>
                   </p>
                   <p className='modal-description'>{projects.description}</p>
                 </div>
