@@ -49,6 +49,11 @@
         "level": "95"
       },
       {
+        "name": "Chrome DevTools",
+        "class": "devicon-chrome-plain",
+        "level": "95"
+      },
+      {
         "name": "Python",
         "class": "devicon-python-plain",
         "level": "95"
@@ -61,6 +66,11 @@
       {
         "name": "JavaScript",
         "class": "devicon-javascript-plain",
+        "level": "95"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-cSharp-plain",
         "level": "95"
       },
       {
