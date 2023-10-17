@@ -60,11 +60,6 @@ class Projects extends Component {
           <div className='col-md-12 mx-auto'>
             <div className='row mx-auto'>{projects}</div>
           </div>
-          <ProjectDetailsModal
-            show={this.state.detailsModalShow}
-            onHide={detailsModalClose}
-            data={this.state.deps}
-          />
         </div>
       </section>
     );
