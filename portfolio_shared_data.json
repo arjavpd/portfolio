@@ -51,16 +51,11 @@
       {
         "name": "Chrome DevTools",
         "class": "devicon-chrome-plain",
-        "level": "95"
+        "level": "85"
       },
       {
         "name": "Python",
         "class": "devicon-python-plain",
-        "level": "95"
-      },
-      {
-        "name": "TypeScript",
-        "class": "devicon-typescript-plain",
         "level": "95"
       },
       {
