@@ -57,11 +57,11 @@
       ]
     },
     {
-      "title": "Wine Predictive Modelling",
-      "startDate": "2022",
-      "description": "Pre-processed dataset. Used Random Forest Classifier to model data. Predicted an output from given parameters such % malic acid or color intensity. Created the application with Python and Streamlit.",
-      "images": ["images/portfolio/wine/p1.jpg"],
-      "url": "https://arjavpd-winemlapp-wc-ml-app-q0ac4v.streamlit.app/",
+      "title": "ML Cognitive Temperature Analysis",
+      "startDate": "2023",
+      "description": "Collected EEG data of particpants perfoming congnitive tasks in cold and normal temperatues. Cleaned, pre-processed and fed data into various classification models. Determined best model to be XGBoost with 88% accuracy. Created using Python.",
+      "images": ["images/portfolio/temperature/p1.jpg"],
+      "url": "https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis",
       "technologies": [
         {
           "class": "devicon-python-plain",
