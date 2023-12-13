@@ -60,7 +60,7 @@
       "title": "ML Cognitive Temperature Analysis",
       "startDate": "2023",
       "description": "Collected EEG data of particpants perfoming congnitive tasks in cold and normal temperatues. Cleaned, pre-processed and fed data into various classification models. Determined best model to be XGBoost with 88% accuracy. Created using Python.",
-      "images": ["images/portfolio/temperature/p1.jpg"],
+      "images": ["images/portfolio/dawn/p1.png"],
       "url": "https://github.com/arjavpd/UBC-ML-Cognitive-Temperature-Analysis",
       "technologies": [
         {
